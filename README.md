@@ -23,5 +23,4 @@ Ce sont des principes qui favorisent la conception du code robuste et évolutif.
 ## KISS (Keep It Simple, Stupid)
  Il met l’accent sur la simplicité dans la conception et l’implémentation du code. Selon ce principe, il est préférable de maintenir les solutions simples plutôt que de les rendre complexes. La simplicité favorise la compréhension, la maintenance et la résolution des problèmes.
   
-
-  
+Codez bien!! ❤️
